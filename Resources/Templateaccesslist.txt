@@ -1,0 +1,1 @@
+Network = Yes;Program1 = No;Program2 = No;Program3 = No;Program4 = No;Program5 = No;Program6 = No;Program6 = No;Program7 = No;Payroll = No;TimeAttendance = No;Program8 = No;Program9 = No;Program10 = No;Program11 = No;Program11 = No

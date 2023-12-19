@@ -1,0 +1,14 @@
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
+# Git Folder
+.git
+
+# Script Files & Folder
+Sox Files/
+userlist.txt
+test.ps1

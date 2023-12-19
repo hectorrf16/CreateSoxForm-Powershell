@@ -1,0 +1,20 @@
+* text=auto
+Resources/* linguist-vendored
+
+# Explicitly declare text files that should be normalized and converted
+# to native line endings on checkout.
+*.md text
+*.txt text
+
+# Declare files that should have CRLF line endings on checkout.
+*.cmd eol=crlf
+*.ps1 eol=crlf
+*.html eol=crlf
+
+# Declare files that should have LF line endings on checkout.
+
+# Declare files that are truly binary and shouldn't be modified.
+*.pdf binary
+*.png binary
+*.docx binary
+*.ico binary
